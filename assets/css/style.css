@@ -100,7 +100,7 @@ a {
     font-size: 1.8rem;
     line-height: 1.5;
     letter-spacing: 0.01em;
-    color: #687691;
+    color: #687690;
 }
 .hero .title {
     margin-top: 8px;
@@ -495,6 +495,7 @@ a {
 }
 .footer .heading {
     font-family: "Lato";
+    font-style: normal;
     font-weight: 700;
     font-size: 2rem;
     color: #1c1c1d;
@@ -515,14 +516,14 @@ a {
     color: #7a7a7e;
 }
 .footer .desc {
-    line-height: 1.72;
+    line-height: 1.75;
 }
 .footer .social {
     margin-top: 40px;
     display: flex;
 }
 .footer .social-link {
-    margin-right: 16px;
+    margin-left: 16px;
     display: flex;
     align-items: center;
     justify-content: center;
